@@ -157,4 +157,7 @@ Use trader clustering for personalized risk and leverage controls
 <img width="1105" height="602" alt="image" src="https://github.com/user-attachments/assets/1db88cca-8fee-45d5-ad6e-cc592a7880f5" />
 <img width="1084" height="449" alt="image" src="https://github.com/user-attachments/assets/9d7c630e-27ec-4a34-b09c-a651043a8d0a" />
 <img width="957" height="667" alt="image" src="https://github.com/user-attachments/assets/2d9a880a-3849-431d-84e4-8dcf21b5d44b" />
+<img width="926" height="448" alt="image" src="https://github.com/user-attachments/assets/8ad13808-afc9-4dac-b9a8-3dca7bbbc72d" />
+<img width="962" height="435" alt="image" src="https://github.com/user-attachments/assets/9b487126-ddcc-4439-be12-418c6d55a6cd" />
+<img width="816" height="561" alt="image" src="https://github.com/user-attachments/assets/d3ff272f-0894-433e-87fc-66cf62c3aede" />
 
