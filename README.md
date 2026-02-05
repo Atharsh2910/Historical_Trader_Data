@@ -143,3 +143,18 @@ Implement behavioral alerts for over-trading
 Incentivize low-volatility and consistent traders
 
 Use trader clustering for personalized risk and leverage controls
+
+<img width="1108" height="503" alt="image" src="https://github.com/user-attachments/assets/715960f5-ad04-459d-a5af-75ccbe6ac39e" />
+<img width="1100" height="496" alt="image" src="https://github.com/user-attachments/assets/af9a8a4e-a97a-4ccb-b083-917eaf52d65f" />
+<img width="911" height="583" alt="image" src="https://github.com/user-attachments/assets/2150ee12-bb39-43f5-935e-f3891cfab0b2" />
+<img width="718" height="496" alt="image" src="https://github.com/user-attachments/assets/27616aaf-1c8a-456f-9bcd-89e44b422848" />
+<img width="798" height="486" alt="image" src="https://github.com/user-attachments/assets/4e080873-a191-4efb-b988-70e7d906891b" />
+<img width="900" height="672" alt="image" src="https://github.com/user-attachments/assets/6906ef3a-2726-4d1c-89ee-0217d557dcfd" />
+<img width="1108" height="509" alt="image" src="https://github.com/user-attachments/assets/13005b41-07c6-4766-972a-9a8dedc98096" />
+<img width="1107" height="419" alt="image" src="https://github.com/user-attachments/assets/5724b760-60ee-4aef-aaca-f15adf19fb26" />
+<img width="689" height="480" alt="image" src="https://github.com/user-attachments/assets/2ac8e56b-b2a3-4bf4-abbd-ab24d8487005" />
+<img width="1031" height="578" alt="image" src="https://github.com/user-attachments/assets/706d16e9-9cb9-43e8-812c-fbe5af1ec439" />
+<img width="1105" height="602" alt="image" src="https://github.com/user-attachments/assets/1db88cca-8fee-45d5-ad6e-cc592a7880f5" />
+<img width="1084" height="449" alt="image" src="https://github.com/user-attachments/assets/9d7c630e-27ec-4a34-b09c-a651043a8d0a" />
+<img width="957" height="667" alt="image" src="https://github.com/user-attachments/assets/2d9a880a-3849-431d-84e4-8dcf21b5d44b" />
+
